@@ -1,12 +1,14 @@
 =======================
 Common commands
 =======================
+q      **Quit.
 ls     **List.
 ls -a  **List all.
 pwd    **Present working directory.
 cd     **Change directory.
+man    **Manual.
+	   e.g. man ls
 
-e.g. chmod +x task.sh
 
 =======================
 Make file executable
