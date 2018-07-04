@@ -1,3 +1,11 @@
+==============================================
+==============================================
+References:
+https://launchschool.com/books/command_line/read/introduction
+https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+==============================================
+==============================================
+
 =======================
 Common commands
 =======================
