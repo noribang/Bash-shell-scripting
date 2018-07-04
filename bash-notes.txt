@@ -53,15 +53,24 @@ bash task.sh
 =======================
 File system navigation
 =======================
-cd     **Goes to home directory.
-cd ~   **Goes to home directory.
-cd ~/  **Goes to home directory.
+cd       Goes to home directory.
+cd ~   
+cd ~/  
 
-cd /   **Goes to root directory.
+cd /     Goes to root directory.
 
-cd -   **Toggles between last two locations visited.
-cd .   **Stays in same directory.
-cd ..  **Go up one folder level.
+cd -     Toggles between last two locations visited.
+
+cd .     Stays in same directory.
+cd ./
+
+cd ..    Go up one folder level.
+cd ../
+
+cd ../.. Goes two levels up.
+
+*        "splat" or "glob" operator. Wildcard that represents any character.
+
 
 =======================
 Absolute path vs Relative path
@@ -69,10 +78,3 @@ Absolute path vs Relative path
 cd /level3/room1    **Absolute path.
 cd ../room2         **Relative path to move to /level3/room2 folder.
 cd /level3/room2    **Absolute path to /level3/room2.
-
-
-
-
-
-
-
