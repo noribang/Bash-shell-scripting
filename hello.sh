@@ -1,3 +1,5 @@
 #!/bin/bash
-
-echo "Hello World, again!"
+# declare STRING variable
+STRING="HEEELOOO WorldDDDDDDD"
+#print variable on screen
+echo $STRING
