@@ -9,14 +9,14 @@ https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 =======================
 Common commands
 =======================
-q      **Quit.
-ls     **List.
-ls -a  **List all.
-pwd    **Present working directory.
-cd     **Change directory.
-man    **Manual.
-	   e.g. man ls
-
+q               **Quit.
+ls              **List.
+ls -a           **List all.
+pwd             **Present working directory.
+cd              **Change directory.
+man [command]   **Manual.
+	            e.g. man ls
+tar [arguments] **archive
 
 =======================
 Make file executable
@@ -46,7 +46,7 @@ e.g.
 which bash
 
 =======================
-Define Bash shell interpreter at top of file
+Define Bash shell interpreter at top of .sh file
 =======================
 #!/bin/bash
 
