@@ -20,7 +20,7 @@ Notes on Bash shell scripting.
 * chmod +x name_of_file.sh
 * e.g. chmod +x task.sh
 
-## Make file executable
+## Run script file
 * ./name_of_file.sh
 * e.g. ./task.sh
 
