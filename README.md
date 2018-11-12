@@ -14,7 +14,7 @@ Notes on Bash shell scripting.
 * rm nameOfFile
 * e.g. rm content.txt
 
-### *Remove directory and contents*
+### *Removes directory and contents*
 * rm -R nameOfFolder
 * e.g. rm -R RubyFiles
 
