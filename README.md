@@ -90,3 +90,9 @@ Notes on Bash shell scripting.
 ### *Appends line(s) of code to Ruby file (and creates file if it does not exist)*
 * echo "puts 'second line'" >> ruby01.rb
 * echo "puts 'third line'" >> ruby01.rb
+
+### *Creates (or overwrites) Ruby file (if it does not exist) and adds multiple lines of code at one time*
+* printf "puts 'a'\nputs 'b'\nputs 'c'" > ruby01.rb
+
+### *Appends line(s) of code to Ruby file (and creates file if it does not exist)*
+* printf "\nputs 'd'\nputs 'e'\nputs 'f'" >> ruby01.rb
