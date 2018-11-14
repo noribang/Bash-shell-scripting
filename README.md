@@ -4,6 +4,7 @@ Notes on Bash shell scripting.
 ## References:
 * [Launchschool](https://launchschool.com/books/command_line/read/introduction)
 * [linuxconfig.org](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+* [Markdown syntax](https://guides.github.com/features/mastering-markdown/#syntax)
 
 ## Common commands
 * q               **Quit.
