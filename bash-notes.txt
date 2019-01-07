@@ -17,6 +17,9 @@ cd              **Change directory.
 man [command]   **Manual.
 	            e.g. man ls
 tar [arguments] **archive
+rm              **remove file
+rm -R           **remove directory with files and subdirectories
+rmdir 			**remove empty directory
 
 =======================
 Make file executable
@@ -27,6 +30,13 @@ e.g. chmod +x task.sh
 
 =======================
 Make file executable
+=======================
+./name_of_file.sh
+
+e.g. ./task.sh
+
+=======================
+Make executable file run
 =======================
 ./name_of_file.sh
 
